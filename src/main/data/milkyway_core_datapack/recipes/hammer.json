@@ -1,15 +1,15 @@
 {
     "type": "create:crushing",
     "ingredients": [
-    	{
-    		"tag": "tconstruct:manyullyn"
-    	}
+        {
+                "tag": "tconstruct:manyullyn"
+        }
     ], 
-	"results": [
-		{
-			"item": "milkyway_core:manyullyn_fragment",
-			"count": 2
-		}
-	]
-	"processingTime":1200
+        "results": [
+                {
+                        "item": "milkyway_core:manyullyn_fragment",
+                        "count": 2,
+                }
+        ]
+       "processing_time":1200
 }
