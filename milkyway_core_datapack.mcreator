@@ -1,0 +1,47 @@
+{
+  "mod_elements": [
+    {
+      "name": "Hammer",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "hammer"
+    },
+    {
+      "name": "BrassLump",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "brass_lump"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "milkyway_core_datapack",
+    "modName": "milkyway core datapack",
+    "version": "1.0.0",
+    "author": "pouff, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "datapack-1.16.x",
+    "modElementsPackage": "net.mcreator.milkywaycoredatapack",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200119518
+}

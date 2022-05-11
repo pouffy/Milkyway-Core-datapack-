@@ -1,0 +1,14 @@
+"type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:brass_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "milkyway_core:hot_brass",
+      "amount": 1
+    }
+  ],
+  "heatRequirement": "heated"
+}
